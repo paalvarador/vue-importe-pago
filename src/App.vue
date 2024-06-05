@@ -18,7 +18,7 @@ const toPay = computed(() => {
 
 <template>
   <main class="mx-auto container flex flex-col items-center">
-    <h1 class="text-blue-800 my-10 text-2xl">
+    <h1 class="text-blue-800 my-10 text-3xl">
       Calculo de importe de pago por personas
     </h1>
     <div class="flex flex-col w-full px-60 justify-between">
